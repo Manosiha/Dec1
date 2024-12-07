@@ -7,7 +7,7 @@ const Register = () => {
      
 
         <div className='main_left'>
-            <h2>INFORMATION</h2>
+            <h2>INFORMATION- -1</h2>
             
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum porro ipsum fuga illo consequatur aperiam libero eius quod, earum eum recusandae eveniet ut incidunt sapiente</p> <p> consectetur quasi numquam commodi cumque?</p>
             <button>Have An Account</button>
