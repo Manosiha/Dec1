@@ -8,8 +8,8 @@ import Sinin from './Componant/Sinin/Sinin';
 function App() {
   return (
     <div >
-      <Register/>
-      <Biodata/>
+      {/* <Register/> */}
+      {/* <Biodata/> */}
       <Sinin/>
     </div>
   );
