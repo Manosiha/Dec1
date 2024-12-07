@@ -1,0 +1,50 @@
+.sin_main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 800px;
+}
+
+.left-section,
+.right-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-section {
+    background: #fff;
+    padding: 20px;
+}
+
+.right-section {
+    background-color:lightblue;
+    color: #fff;
+    text-align: center;
+}
+.form-group {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .sign-in-btn {
+    background: lightblue;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .sign-in-btn:hover {
+    background: darkblue;
+  }
